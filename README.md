@@ -1,6 +1,6 @@
 # exercises
 
-* Exercises for some site:
+* Exercises for some sites:
     * [leetcode](http://leetcode.com/)   
 * Or my own exercises
 
