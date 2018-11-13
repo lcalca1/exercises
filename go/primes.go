@@ -1,4 +1,3 @@
-// 获取100以内的素数
 package main
 
 import (
